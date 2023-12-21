@@ -1,0 +1,41 @@
+body{
+    font-family: cursive;
+    color: rgb(107, 2, 2);
+    background-image: url(../assets/img/christmasbackground.jpg);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.bodytext{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(250, 243, 227);
+    font-weight:400;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+a{
+    color: rgb(107, 2, 2);
+    background-color: rgb(250, 243, 227);
+    margin-left: 5px;
+}
+a:hover{
+    color: rgb(3, 71, 3);
+    background-color:rgb(250, 243, 227);
+}
+a:visited{
+    color: rgb(3, 71, 3);
+    background-color: rgb(250, 243, 227)
+}
+#gingerbread{
+    height: 300px;
+    width: 300px;
+    margin-left: 345px;
+    border:solid rgb(3, 71, 3) 3px;
+}
+#outerdiv{
+    display: flex;
+    justify-content: flex-start;
+}
+
